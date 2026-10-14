@@ -65,5 +65,14 @@ for (const asset of assets) {
   if (!response.ok || fallback) issues.push(`${asset} ${fallback ? `used fallback ${fallback}` : `returned ${response.status}`}`);
 }
 
-console.log(JSON.stringify({ pagesChecked: new Set(pages).size, assetsChecked: assets.size, issues }, null, 2));
+// Downloads that live outside /assets/ (served by the Worker from R2).
+const downloads = ["/download/make-the-show-workbook"];
+for (const path of downloads) {
+  const url = new URL(path, site);
+  const response = await fetch(url, { method: "HEAD", redirect: "follow", cache: "no-store", signal: AbortSignal.timeout(45000) });
+  const type = response.headers.get("content-type") || "";
+  if (!response.ok || !type.includes("application/pdf")) issues.push(`${url.href} returned ${response.status} ${type}`.trim());
+}
+
+console.log(JSON.stringify({ pagesChecked: new Set(pages).size, assetsChecked: assets.size, downloadsChecked: downloads.length, issues }, null, 2));
 if (issues.length) process.exit(1);

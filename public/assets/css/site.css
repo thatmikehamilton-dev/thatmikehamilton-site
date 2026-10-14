@@ -200,7 +200,7 @@ a.card:hover{text-decoration:none;transform:translateY(-2px);transition:.15s}
 .foot{border-top:1px solid var(--border);padding:40px 0;margin-top:20px}
 .foot .wrap{display:flex;flex-wrap:wrap;gap:16px;align-items:center;justify-content:space-between}
 .foot a{color:var(--ink);font-weight:600}
-.foot .social{display:flex;gap:16px}
+.foot .social{display:flex;flex-wrap:wrap;gap:10px 16px}
 .foot small{color:var(--muted)}
 
 /* ---- Responsive ---- */

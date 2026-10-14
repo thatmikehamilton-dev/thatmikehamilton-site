@@ -3,12 +3,17 @@ const FALLBACK_COVER = "/assets/books/cover-unavailable.svg";
 const FALLBACK_ASSET = "/assets/asset-unavailable.svg";
 const HEALTH_PATH = "/__site-health";
 const IMAGE_ASSET = /\.(?:avif|gif|jpe?g|png|svg|webp)$/i;
+const WORKBOOK_DOWNLOAD_PATH = "/download/make-the-show-workbook";
+const WORKBOOK_OBJECT_KEY = "make-the-show-workbook.pdf";
 
 export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
     if (url.pathname === HEALTH_PATH) {
       return healthResponse(env);
+    }
+    if (url.pathname === WORKBOOK_DOWNLOAD_PATH) {
+      return workbookDownload(request, env);
     }
 
     const response = await env.ASSETS.fetch(request);
@@ -53,6 +58,36 @@ async function runHealthCheck(env) {
   const report = { event: "site_health", ok: missing.length === 0, checkedAt, coversChecked: checks.length, missing };
   (report.ok ? console.log : console.error)(JSON.stringify(report));
   return report;
+}
+
+// Free Make the Show workbook. The PDF lives in the private
+// thatmikehamilton-downloads R2 bucket; /workbook/ collects the email first.
+async function workbookDownload(request, env) {
+  if (request.method !== "GET" && request.method !== "HEAD") {
+    return new Response("Method not allowed", { status: 405, headers: { allow: "GET, HEAD" } });
+  }
+  if (!env.DOWNLOADS) {
+    console.error(JSON.stringify({ event: "workbook_download", ok: false, reason: "downloads_binding_missing" }));
+    return new Response("The workbook is temporarily unavailable.", { status: 503 });
+  }
+  const object = request.method === "HEAD"
+    ? await env.DOWNLOADS.head(WORKBOOK_OBJECT_KEY)
+    : await env.DOWNLOADS.get(WORKBOOK_OBJECT_KEY);
+  if (!object) {
+    console.error(JSON.stringify({ event: "workbook_download", ok: false, reason: "object_missing", key: WORKBOOK_OBJECT_KEY }));
+    return new Response("The workbook is temporarily unavailable.", { status: 404 });
+  }
+  const headers = new Headers({
+    "content-type": "application/pdf",
+    "content-disposition": 'attachment; filename="Make-the-Show-Workbook.pdf"',
+    "content-length": String(object.size),
+    "cache-control": "public, max-age=3600",
+    etag: object.httpEtag,
+  });
+  if (request.method === "GET") {
+    console.log(JSON.stringify({ event: "workbook_download", ok: true }));
+  }
+  return new Response(request.method === "HEAD" ? null : object.body, { headers });
 }
 
 async function logFallback(path) {
