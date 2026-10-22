@@ -1,0 +1,140 @@
+[0022.420 - 0040.840] Hey, this is I am my camelton. I am that my camelton and I'm here to talk to you about some ais and Texas stuff. And hopefully we can all follow along with this and stand up for ourselves because a is a beautiful thing, but it's scary as hell.
+[0041.320 - 0050.340] So let's talk about this real quick. You know, last time we went to Abilene, at least in the way you can go to Abilene from a camera and a stack of public documents.
+[0050.340 - 0063.660] And when we got there, we looked at what happened when artificial intelligence becomes a physical project. Right. So last time was that this time, I want to ask the question sitting behind every one of those buildings.
+[0063.660 - 0075.300] So where does the power come from? Because when somebody says this AI campus needs one gigawatt. Right. That can sound like a piece of tech vocabulary you're supposed to not at polite.
+[0076.320 - 0090.920] It's not though. Right. One gigawatt is one billion watts. And if that still feels like trying to picture a billion anything, here is the point. It is not a toaster problem. It's not a maybe unplug the Christmas lights problem.
+[0090.920 - 0106.940] It is a grid planning problem. Anybody remember the big ice storm? And Texas has a lot of new customers knocking on the door at once. Data centers, industrial facilities, crypto operations, oil and gas, and ordinary population growth. Right.
+[0107.440 - 0117.100] The danger is not that every proposal will happen. The danger is that the state has to make expensive decisions before it knows which promises are actually real.
+[0117.720 - 0125.480] Now, the grid, it's not just a gas station. Right. So most of us experience electricity like it is a gas station.
+[0126.100 - 0133.920] When you need some, you pay for some and it appears. Right. The grid's closer to an orchestra that has to play live all the freaking time.
+[0134.520 - 0146.360] Generation transmission, substations, local wires, market prices, weather repairs and demand all have to stay in rhythm. You can't fill a warehouse with extra electricity on Tuesday and use it during a heat wave on Friday.
+[0146.360 - 0160.720] Not at the scale we're talking about anyway. Urcott manages the grid that serves most of Texas. It has to make sure enough power is available. The wires can carry it where it needs to go and the system stays stable when something big changes very fast.
+[0161.440 - 0170.720] And a big AI data center is not just another office building. It can be a very large, very concentrated around the clock customer.
+[0170.720 - 0183.480] The exact load changes as equipment comes online and workloads change. But the planning challenge is clear. A large new customer can need generation transmission and substation work that takes years and years to permit and build.
+[0184.060 - 0198.360] That is why the phrase we have enough electricity is not the whole question. Enough where? Like enough at what hour? What kind of transmission enough of the project arrives in full? What if it just turns on tomorrow? Enough of it doesn't?
+[0199.120 - 0211.420] So here's why the 24-7 changes the conversation. There's another reason data center load gets so much attention. It's often expected to run at a very high level for a very long time.
+[0211.940 - 0220.360] A factory may have shifts. A commercial building has nights and weekends. A house has a morning rush and an evening rush. A large computing campus can be completely different.
+[0220.360 - 0233.420] The machines are valuable when they're running. The customer who rented the computing capacity doesn't particularly want to hear that their model training took the afternoon off because it was a little warm outside. No, that's probably not what they want.
+[0234.060 - 0242.400] That doesn't mean data centers can never be flexible. Some can shift work, use backup systems or agree to reduce demand under certain circumstances.
+[0242.400 - 0252.540] But flexibility, flexibility has to be designed, paid for and tested. It's not something you get by just saying, hey, I was smart three times into a conference microphone.
+[0253.200 - 0262.780] That's not how it shows up. The important distinction is between energy and peak demand.
+[0263.380 - 0271.420] Energy is how much electricity you use over time, right? So peak demand is how much you need at the busiest, most stressed moment.
+[0272.040 - 0279.960] You can have plenty of energy over a month and still have a serious problem on the handful of hours when everybody needs power all at once.
+[0280.600 - 0290.900] Again, like I said, does anybody remember the big ice storm? We could not handle it. My wife and I were in the house for six days with no electricity.
+[0292.000 - 0308.840] This is why the grid conversation always seems to come back to the hot summer afternoon, the cold winter morning, the wind that didn't blow, the generator that's down for maintenance today and the transmission line that's already carrying everything it possibly can.
+[0309.320 - 0313.520] We are pushing our systems to the brink to begin with.
+[0314.160 - 0323.200] Now, for a normal person, this can sound like a bunch of excuses from people who own hard hats, right? Well, it's really not. It's the physical constraint.
+[0323.940 - 0336.460] It's underneath all of the software talk that we hear. And it's why a giant new customer needs a plan that works in the hard hours, not just a plan that looks good in the annual report.
+[0336.460 - 0358.430] Now, there are two ways a project can be wrong. Okay.
+[0359.090 - 0370.230] There are really two ways a large plan like this can fail. It can be too optimistic about the project. That's an overbuild problem.
+[0370.810 - 0377.610] A utility starts preparing for demand that never really arrives. Equipment lines may still be useful, but the financing and timing can be wrong.
+[0377.610 - 0386.710] That happens. Or it can be too optimistic about the system. That is the underbuild problem. The project real, the customer's ready, and the infrastructure is not.
+[0387.130 - 0395.950] Then somebody is surprised that a giant factory cannot be powered by good intentions. The job of the planning process is to avoid both of those errors.
+[0396.730 - 0406.910] That is harder than simply approving or denying a project. It requires evidence, security deposits, contracts, construction progress, realistic schedules, and a willingness to update assumptions
+[0406.910 - 0419.270] when facts change. That's also why the public should be suspicious of easy certainty from every single sign. A company may have an incentive to describe his demands as urgent and enormous.
+[0419.870 - 0435.290] A community may have an incentive to advertise the biggest possible economic impact. Critics may have an incentive to treat every request as if they were already plugged in.
+[0435.290 - 0447.870] It's not glamorous, but it is essential. The numbers are real, and they're also not a crystal ball. So Urcot's public materials show why this has become such a complicated conversation.
+[0448.590 - 0457.190] In early 2026, Urcot reported more than 232,000 megawatts of a large load request moving through its interconnection process.
+[0457.190 - 0466.870] In a later house presentation, the number was even higher at about 410,000 megawatts of requests through 2030, with data centers accounting for the overwhelming majority.
+[0467.750 - 0477.730] Now, before anybody turns that into a scary lower third graphic with a siren, there are a line of people asking whether they can get in the building.
+[0477.730 - 0488.930] Some will build, some will get smaller, some will arrive later, some will go away. Urcot itself has said that this is why it's working to improve how it forecasts and studies large loads.
+[0489.670 - 0502.050] That is not a technicality. That is the entire story. If planners assume every announced project becomes a full-size operating project, Texas could overbuild expensive infrastructure.
+[0502.050 - 0510.830] If planners assume too little, real projects and existing customers can run into bottlenecks. So the job is not to believe the biggest number or dismiss it.
+[0511.250 - 0515.250] The job is to figure out which demand is credible enough and then plan around it.
+[0516.930 - 0521.750] Okay, let's talk about requested load is not equal to operating load.
+[0522.370 - 0527.010] This is probably one of those moments where government paperwork is actually more interesting than it looks.
+[0527.010 - 0532.110] I know, I know, I also cannot believe I just said that, but please stay with me.
+[0533.050 - 0536.130] Now, there's a reason that Texas changed the rules.
+[0537.070 - 0543.370] Texas passed House Bill 5066 in 2033 because the old approach had a basic timing problem.
+[0544.090 - 0549.810] Transmission lines can take years to plan and build. A company can decide it wants power much, much faster than that.
+[0550.350 - 0555.610] If the grid waits until every large customer is fully committed before it starts planning, they can always be late.
+[0556.330 - 0567.570] So the law told the state to look at existing load, forecast some growth, and large customers, let's look at seeking interconnection when it decides where more transmission is needed.
+[0568.290 - 0580.590] That makes practical sense. Now, we're talking about politicians in the state, so you don't always wait until the restaurant is already full and the kitchen is on fire before you ask whether you need another cook, but it creates a new problem.
+[0580.590 - 0584.370] How much faith should a public planning system put in a company's forecast?
+[0585.170 - 0587.530] Urcott has openly wrestled with that.
+[0588.170 - 0594.710] Its 2025 materials showed how much the long-term forecast changed when more large load information was included.
+[0595.390 - 0605.370] Urcott has also developed adjusted forecasts to reflect the fact that they not every requested data center load arrives on time or at full size, right?
+[0606.090 - 0607.650] That is a healthy admission.
+[0607.650 - 0617.910] It means the people doing the planning understand the difference between demand that is hoped for, demand that is contracted, and demand that is actually using power right now.
+[0618.910 - 0628.290] So here's what has to be built. When we say power for data center, people imagine a power plant sitting beside a building like a very large generator at a backyard barbecue, right?
+[0628.750 - 0634.550] Sometimes projects do propose on-site generation, but usually the bigger picture involves several layers.
+[0634.550 - 0644.990] First, there has to be enough generation somewhere on the system, so that's natural gas, wind, solar, batteries, nuclear, some other kind of source.
+[0645.630 - 0652.370] Second, there has to be high voltage transmission capable of moving that power across distance, right?
+[0653.030 - 0660.070] And then third, there are substations and local connection facilities that step electricity down and deliver it to the campus.
+[0660.070 - 0670.450] Fourth, there is reliability equipment and planning to make sure a sudden change in a large electronic load does not create a bigger stability problem.
+[0671.090 - 0677.450] Urcott now publishes research specifically about modeling large electronics loads like AI data centers.
+[0678.070 - 0685.830] That tells you something important. These facilities are not merely large, their technical behavior can matter to grid stability.
+[0686.570 - 0691.150] We need that. So when somebody says the market will handle it, that's only partially true.
+[0691.530 - 0698.010] Markets can help decide which generators get built and which customers pay at what price, but transmission is physical infrastructure.
+[0698.570 - 0704.110] A wire either exists on the right route at the right voltage or it just simply doesn't.
+[0704.290 - 0709.310] So who gets the priority, right? Here's the uncomfortable question between the engineering.
+[0709.310 - 0716.930] If a new AI campus wants an enormous amount of electricity, what does that mean for the people who already live and work on that grid, right?
+[0717.310 - 0722.610] The wrong answer is to pretend that this is a choice between regular Texans and technology, right?
+[0723.010 - 0725.770] Texas needs jobs, businesses, industry and infrastructure.
+[0726.290 - 0730.390] A community can want major, major investments. Nothing wrong with that.
+[0731.010 - 0738.970] The other wrong answer is to say that because a company has money, it should automatically receive whatever new public infrastructure it needs.
+[0738.970 - 0742.230] With no questions asked, and I have seen that.
+[0742.870 - 0747.010] The grownup answer is that the rules should be clear before the deal is made.
+[0747.710 - 0752.430] What upgrades are necessary because of this customer, right? What does the customer pay for?
+[0752.690 - 0756.190] What part serves the broader grid and may properly be shared?
+[0757.150 - 0763.010] What happens if the expected load never materializes? Can the customer reduce demand during stress conditions?
+[0763.630 - 0766.470] What commitments are enforceable? That's an important part of that.
+[0766.470 - 0772.090] Those questions are not punishment. They're the price of treating reliability seriously.
+[0773.490 - 0775.350] All right. Let's take a little break.
+[0776.230 - 0778.870] But while we're doing that, let me ask you this.
+[0779.090 - 0786.830] If this is the kind of thing you want to explain without having to turn into a full-time energy policy hobbyist, then join me at datmikehamilton.com.
+[0787.050 - 0795.150] I send a practical newsletter about the technology stories that become decisions at work, in a town, in a school or at your kitchen table.
+[0795.150 - 0798.470] The goal here is not to make you sound smarter at a conference.
+[0798.730 - 0805.490] The goal is to help you ask the useful questions, but for somebody else makes a decision for you, and they certainly will.
+[0806.190 - 0813.090] Not a lot of open air these days. Sign up at datmikehamilton.com, and now back to the problem.
+[0814.090 - 0817.930] Okay, so this is a reality check. A forecast is not a promise.
+[0817.930 - 0824.210] So let's come back to those enormous ERCOT numbers, because this is where people can accidentally mislead you in either direction.
+[0825.170 - 0839.330] If somebody says Texas has 410 gigawatts of new load coming, the honest translation is Texas is tracking a huge amount of requested large load, much of it tied to data centers, and is trying to determine how much of that should count in real planning.
+[0839.330 - 0845.890] Now, if somebody says most of that will never happen, so just relax. That's also not enough.
+[0846.230 - 0850.770] Even a fraction of a very large number can force major new generation and transmission decisions.
+[0851.530 - 0855.650] The uncertainty here is not, it's not an argument for doing nothing.
+[0856.470 - 0862.430] It's an argument for better filters, better contracts, and clearer rules, clear cost rules.
+[0862.430 - 0869.730] Texas has already moved towards a batch study process for large loads, rather than treating every new request is completely separate surprise.
+[0870.470 - 0878.010] Now that sounds boring until you realize the alternative is repeatedly redesigning your plan every single time another massive project walks in with a map and a promise.
+[0879.350 - 0884.510] This is what a system looks like when an industry is moving faster than the infrastructure designed to support it.
+[0885.190 - 0890.170] So we say reliability a lot. What does reliability actually mean to you?
+[0890.890 - 0895.210] Reliability is one of those words that gets used so often, it starts to sound like a logo, right?
+[0895.570 - 0898.310] In plain English, it means the lights stay on when you need them.
+[0898.710 - 0903.450] It means hospitals, water systems, schools, small businesses, homes.
+[0904.830 - 0908.430] They're not asked to absorb the consequences of planning the state.
+[0908.970 - 0910.350] Somebody else got credit for making quickly.
+[0911.170 - 0914.950] Now instead, reliable does not mean nothing ever breaks.
+[0914.950 - 0915.890] Texas is too big.
+[0916.170 - 0918.610] Weather is too strange, equipment is too physical for that promise.
+[0919.830 - 0929.770] Reliable means the system has enough capacity, enough backup, enough information, and enough rules that one bad event doesn't become a cascading disaster, right?
+[0930.170 - 0931.430] That's what we saw with the ice storm.
+[0932.030 - 0936.170] That is why this is a civic story, not just an energy story.
+[0936.370 - 0941.730] When a large new load arrives, the question is not whether the customer is allowed to use electricity, of course it is.
+[0941.730 - 0947.090] The question is whether the deal preserves reliability for everybody sharing the system.
+[0947.810 - 0951.210] That's a big problem these days, people being situationally aware.
+[0951.970 - 0955.270] That's a reasonable standard though, and it should be the minimum standard.
+[0956.090 - 0959.970] So, here's what to ask when you hear, we'll bring our own power.
+[0961.130 - 0967.050] You may hear companies say they'll bring their own generation by renewable power, use batteries, or operate flexibly.
+[0967.050 - 0967.830] Good.
+[0968.590 - 0975.090] Those may all be part of a credible plan, but none of those phrases should end the conversation there.
+[0975.850 - 0981.750] Ask whether the generation is built, permitted, financed, connected, and available when the data center needs it.
+[0982.270 - 0986.750] Ask what happens on a hot still evening when solar production is low and demand is high.
+[0987.430 - 0991.690] Ask whether batteries are sized for short balancing or long duration backup.
+[0991.690 - 0999.990] Ask which transmission upgrades are still required, and whether the plan works on paper only when everything happens exactly on schedule.
+[1000.570 - 1002.370] Again, this is not hostility.
+[1003.130 - 1003.830] It's not negativity.
+[1004.450 - 1008.450] If a company has a serious answer, these questions will give it a chance to show the work.
+[1009.490 - 1010.090] Okay.
+[1010.990 - 1013.950] So, here's the next move.
+[1014.630 - 1017.810] Here's a question to carry into any big technology announcement.
+[1017.810 - 1018.410] Okay.
+[1018.790 - 1025.390] Who funds the connection, who guarantees the demand, and who holds the bill if the forecast is wrong.
+[1025.790 - 1027.630] That's about as simple as it gets right there.
+[1028.510 - 1030.610] That sounds like an electricity question.
+[1030.970 - 1032.030] It's really a money question.
+[1032.470 - 1035.090] In the next episode, we're going to follow the dollars.
+[1035.410 - 1045.070] Private investment, tax treatment, utility costs, public incentives, customer revenue, and the little trick that can hide in all of it,
+[1045.070 - 1049.130] calling a cost private until it lands somewhere public.
+[1049.930 - 1054.870] Subscribe if you want to keep this series together and join the newsletter at thatmicambleton.com.
+[1055.210 - 1058.810] Next up, who is actually paying for the AI boom?
+[1059.750 - 1059.890] We'll see.

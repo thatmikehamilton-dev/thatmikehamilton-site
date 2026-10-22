@@ -12,6 +12,9 @@ export default {
     if (url.pathname === HEALTH_PATH) {
       return healthResponse(env);
     }
+    if (url.pathname === "/newsletter" || url.pathname === "/newsletter/") {
+      return Response.redirect(new URL("/#newsletter", url).toString(), 301);
+    }
     if (url.pathname === WORKBOOK_DOWNLOAD_PATH) {
       return workbookDownload(request, env);
     }

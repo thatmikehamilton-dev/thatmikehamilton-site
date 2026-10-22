@@ -19,5 +19,3 @@ User-agent: Google-Extended
 Allow: /
 
 Sitemap: https://thatmikehamilton.com/sitemap.xml
-
-Sitemap: https://thatmikehamilton.com/newsletter/sitemap.xml

@@ -1,0 +1,223 @@
+[00011.92 - 00015.76] Hey there, I'm that Mike Hamilton. I'm sorry. I just took a drink
+[00016.52 - 00019.62] And we have been following AI
+[00019.62 - 00024.76] Texas the boom that's going on here with data centers and
+[00025.44 - 00026.86] Who's actually paying the bill?
+[00027.64 - 00029.68] So I would like to do
+[00030.48 - 00035.82] One more for this week and it's who is actually paying for this boom this AI boom
+[00036.86 - 00041.40] Now we've been following this boom through Texas
+[00041.92 - 00047.60] And first we looked at a place a giant computing campus like outside of Abilene
+[00048.58 - 00055.84] Very real changes that a project like that brings to a community, right? There's tons and tons of changes
+[00055.84 - 00058.06] That can come to a small town like that
+[00058.06 - 00065.32] Then we looked at power the grid the substations the forecasts and the simple fact that AI data center is not weightless software
+[00065.32 - 00069.54] It's a very large customer asking for very very real electricity
+[00070.14 - 00074.44] Now we get to the part that makes everybody a little uncomfortable, okay
+[00075.12 - 00076.76] Who's paying who pays?
+[00077.22 - 00078.06] Who that paying?
+[00078.88 - 00086.44] Not who announces the investment not who is on stage when the rendering goes up who actually puts up the cash who gets the upside
+[00086.44 - 00091.54] Who gets tax break who pays for the wire who's left holding the bag if the big plan gets smaller?
+[00091.84 - 00096.82] Because private investment it can be wonderfully slippery phrase
+[00096.82 - 00099.20] It can mean a company is taking all the risk
+[00099.20 - 00103.26] You could also mean the company is taking some risk while a city a utility or rate
+[00104.28 - 00108.24] Payer a taxpayer or a pension fund takes another piece of it
+[00108.24 - 00113.96] The goal here is not to accuse every company building a data center of getting away with something
+[00113.96 - 00118.66] No, the goal is to learn how to read the deal before the ribbon gets cut
+[00119.62 - 00122.42] So let's talk about four buckets of money
+[00123.02 - 00127.62] When you hear about a massive AI project put the money in four bucks, okay
+[00128.18 - 00129.80] bucket number one
+[00129.80 - 00131.08] private capital
+[00131.08 - 00138.58] This is company money investor money borrowed money and money committed by customers who need computing capacity
+[00139.10 - 00143.26] Open AI Stargate project was announced with partners including soft bank
+[00144.20 - 00151.28] Open AI Oracle and MGX open AI has said its partners plan large amounts of US capacity and investment
+[00151.28 - 00155.24] those are meaningful corporate commitments and they still
+[00155.92 - 00161.94] There are still plans to have survived construction costs financing funding conditions electricity availability
+[00162.60 - 00167.00] Actual customer demand right bucket two is public incentives
+[00167.00 - 00174.90] These can be property tax agreements sales tax exemptions land arrangements infrastructure support workforce programs expedited permitting
+[00175.44 - 00179.02] Or any other tools the government uses to compete for a project
+[00180.12 - 00181.86] Bucket number three
+[00182.54 - 00186.64] Utility and grid investment. Okay, some upgrades are built for
+[00186.64 - 00195.58] One new customer some improve a broader system. The argument over who pays is usually hidden right here and then there's bucket for
+[00197.18 - 00201.08] Transferred risk, this is the bucket people forget about if
+[00201.08 - 00209.00] projected demand does not arrive if the company changes strategy if facility closes or if infrastructure was built for a load that never fully shows up
+[00209.02 - 00211.32] Who owns the expensive thing that remains?
+[00212.34 - 00213.68] If you can see those four buckets
+[00213.68 - 00218.66] You can understand about 80% of the argument without having to become an infrastructure finance lawyer
+[00218.66 - 00226.78] Although if you are one of those congratulations, you finally have an exciting dinner party topic now billions invested
+[00226.78 - 00228.96] Let's not a balance sheet, right?
+[00229.78 - 00234.98] Let's take the phrase billions invested. It sounds definitive. It is not
+[00234.98 - 00240.94] It may include the values of land building servers networking equipment power equipment construction cost
+[00242.38 - 00243.42] debt future
+[00243.98 - 00248.86] Phases of capacity someone hopes to lease later. I don't know. There's a lot of things, right?
+[00249.14 - 00253.28] That doesn't mean that the number is dishonest. It means you should ask what it includes over
+[00253.28 - 00256.88] What timeline and what's actually been spent already?
+[00257.84 - 00261.26] Now why the first press release is the worst time to stop paying attention
+[00261.26 - 00264.84] Well, the first announcement is usually when everybody is looking
+[00264.98 - 00268.42] The better question is what gets checked two years later, right?
+[00268.90 - 00271.76] Did the project arrive on the schedule that it was presented?
+[00272.38 - 00276.36] Did it hire the number of people that said it would did the wages match the promise?
+[00276.88 - 00279.10] Did local businesses get a meaningful share of the work?
+[00279.26 - 00283.68] Did the training program produce people who found jobs or just people who completed a program?
+[00284.88 - 00291.60] So this is the bigger question, right? Did they follow through did the infrastructure end up costing what public was told?
+[00291.60 - 00293.76] Did a tax agreement perform?
+[00294.16 - 00295.80] I don't know as designs right?
+[00296.02 - 00302.76] However, you cover you fixed it did the community get a revenue stream that lasts after after the temporary construction boom is gone
+[00302.76 - 00307.72] Now none of those questions require you to be against the project. It's not what we're saying
+[00307.72 - 00313.72] They require you to remember that a press release is the beginning of accountability not the end of it
+[00313.72 - 00318.38] This is where local journalism which fewer and fewer public meetings
+[00318.38 - 00324.94] Which nobody comes to and plain old citizens who read the packet matter more than they get credit for a lot of the real terms
+[00324.94 - 00327.16] And the major deal are not hidden in a spy novel
+[00327.16 - 00331.08] They're sitting in a public agenda attachment with a title that makes you want to lie down
+[00331.08 - 00334.46] Consideration of resolution 2026 14 exhibit C
+[00334.46 - 00341.44] That boring PDF may tell you more about the future of a town than a hundred excited social posts now
+[00341.44 - 00344.92] I'm not saying that every person needs to become a municipal finance detective
+[00344.92 - 00351.28] I am saying somebody should and the rest of us should learn the handful of questions that help us recognize a real
+[00351.88 - 00353.02] actual answer
+[00353.56 - 00356.10] Now the difference between a tax break and a tax base
+[00356.90 - 00361.34] So here's another phrase that gets blurred together tax break tax base
+[00361.34 - 00368.00] A tax break is a reduction or an exemption or I guess a rebate or an agreement
+[00368.00 - 00374.90] That changes what a company pays during a period of time a tax base is the ongoing value of
+[00374.92 - 00382.68] Community can tax to pay for schools streets public safety and just everything else that we somehow expect to exist when we dial 911
+[00383.36 - 00388.80] It is possible for a project to receive an incentive and still create a meaningful tax base
+[00388.80 - 00395.56] It's also possible for an incentive to be too generous too long or too loosely tied to public benefit
+[00395.56 - 00398.28] The only way to tell is to look at the time
+[00398.98 - 00401.00] What is paid during construction?
+[00401.84 - 00408.24] What is paid after the agreement expires what local services are needed while the agreement is still active?
+[00408.66 - 00413.08] What happens if equipment gets replaced on a cycle that has its own tax treatment, right?
+[00413.16 - 00414.70] There's all of those things to consider
+[00414.70 - 00417.14] This is not exciting television, right?
+[00417.16 - 00423.76] But it is exactly how a community avoids waking up ten years later and asking why the biggest building in the country or County
+[00423.76 - 00428.40] Sorry did not produce the public benefit everybody expected and by the way
+[00428.40 - 00432.38] By the way, this is the same logic and it applies beyond data centers
+[00432.38 - 00439.42] So stadiums warehouses battery plants semiconductor factories anything with a ceremonial shovel than a giant number printed on a foam board
+[00439.42 - 00443.04] the same goes for jobs a
+[00443.04 - 00448.92] Company may correctly say a project supports thousands of construction jobs indirect jobs and operations jobs
+[00448.92 - 00456.52] But those are different categories with different durations and different levels of certainty a good local deal can contain all three
+[00456.52 - 00459.12] It should still say which is which
+[00459.64 - 00461.66] one of the reasons this matters in
+[00461.66 - 00468.42] Abilene let's go back to Abilene is that the campus is a real project in a real region not a hypothetical exercise
+[00468.42 - 00475.18] The pressure to celebrate is understandable, but the better long-term outcome is not blind celebration or knee-jerk opposition
+[00475.18 - 00478.72] It's a public record that lets people see whether the promises were kept
+[00478.92 - 00482.62] Now tax incentives not a gotcha are received
+[00483.26 - 00486.64] Texas is a statewide tax program for qualifying data centers
+[00486.64 - 00493.56] The comptroller says a facility that meets the requirements can claim a temporary exemption from the six point two five percent state sales use tax
+[00493.56 - 00498.70] On certain equipment necessary to run the center for some qualifying large data center projects
+[00498.70 - 00504.38] The rules can cover state and local sales taxes. This is not automatically scandalous
+[00505.13 - 00511.92] Governments offer incentives because they want jobs. They want investment and economic activity that might otherwise go somewhere else
+[00511.92 - 00517.66] But incentives are not free just because they're written as an exemption instead of a check
+[00517.66 - 00520.58] They're a trade. They're always a trade
+[00520.58 - 00526.88] The public says in effect will collect less of this money now because we expect to get more value somewhere else
+[00526.88 - 00529.92] So jobs tax-based local spending workforce training
+[00530.76 - 00537.00] Infrastructure some combination of all those things that may be a smart trade. It may also be a very bad
+[00537.00 - 00541.98] You can't tell from the word incentive. You can only tell by reading the actual terms
+[00542.66 - 00543.30] so
+[00544.08 - 00544.48] incentive
+[00545.92 - 00554.18] To required return to enforcement. Okay. So here are the questions. What does the company have to invest?
+[00555.10 - 00559.90] How many permanent jobs must it create? What counts as a local job?
+[00559.92 - 00562.98] Is there a wage floor when do the commitments expire?
+[00563.14 - 00567.54] Is there a clawback if the company doesn't deliver or the terms public?
+[00567.60 - 00572.22] Does the community have a way to measure performance without waiting 20 years for a marketing brochure?
+[00572.56 - 00578.34] Now those questions they don't kill deals. They make good deals easier to defend
+[00579.40 - 00583.08] So let's talk about the electric bill question here
+[00583.08 - 00589.76] Right because this is the big the power story from the last episode. Well that comes back here
+[00589.92 - 00596.78] Right if a new data center needs a new substation a transmission upgrade reliability equipment or other connection work
+[00596.78 - 00599.98] Then somebody has to pay for it. The phrase you
+[00600.46 - 00602.44] Want to remember is cost?
+[00603.08 - 00608.58] Causation it means the party causing a cost should bear an appropriate share of it
+[00608.58 - 00614.20] That doesn't mean every wire serving a large customer should be paid for entirely by that customer
+[00614.20 - 00618.50] No, some upgrades may create broad reliability benefits for a region
+[00619.04 - 00625.10] It does mean the rules should show the difference between a system-wide investment and a private customers on ramp
+[00625.94 - 00635.48] Texas regulators have been working on large load interconnection standards designed to support business development while minimizing stranded infrastructure costs and maintaining reliability
+[00636.26 - 00639.46] That is regulator language for a very normal question
+[00639.46 - 00645.66] Do not build a very expensive driveway to a house that might never get built then send the bill to everybody else
+[00645.66 - 00646.96] That's what we're doing
+[00647.52 - 00651.88] This is why forecasting matters a forecast is not just a number on a chart
+[00651.88 - 00657.52] It can influence what gets planned what gets financed and what gets added to somebody's cost of service
+[00658.52 - 00662.22] There's also a fairness question that should be stated pretty plainly
+[00662.22 - 00665.36] Household customers can't negotiate their own transmission agreement
+[00665.36 - 00669.36] The small business can't hire a fleet of lawyers to discuss the terms of a new substation
+[00669.36 - 00672.98] They rely on the rules being designed so that very large
+[00672.98 - 00678.76] Sophisticated customers do not push ordinary costs downhill simply because ordinary people are not at the table
+[00679.33 - 00679.64] now
+[00680.47 - 00683.38] That doesn't mean that the answer is to block every big customer
+[00683.38 - 00688.74] It means a growing state needs rules that welcome investment and protect the people already here
+[00689.53 - 00694.57] So those goals are not opposites unless somebody writes the rules as if they are
+[00695.58 - 00701.98] ERCOT has said its new large load forecasting process is still being refined now. That's not failure
+[00702.50 - 00707.16] Frankly, pretending a brand new industrial demand wave is perfectly predictable would be the failure
+[00708.90 - 00709.34] And
+[00710.06 - 00711.16] They do that a lot
+[00711.16 - 00714.34] Um, let's let's take a quick quick break here
+[00714.34 - 00715.14] You know
+[00715.14 - 00717.36] This is the reason I make season 10
+[00717.90 - 00722.28] Not to tell you every new thing is dangerous not to tell you to buy 12 apps before lunch
+[00722.28 - 00726.02] But to make the system visible while there's still time to ask a better question
+[00726.66 - 00733.88] If this is useful to you the best way to stay with this work is the newsletter at that Mike Hamilton dot com
+[00733.88 - 00735.86] It's daily monday through friday
+[00735.86 - 00741.16] It's where I collect the sources the follow-ups and the questions that don't fit me into one video
+[00741.16 - 00747.20] And if you're leading a team a school a civic group or a business that needs help having a better conversation about ai
+[00747.20 - 00754.98] You can find my speaking and workshop information there too. No magic one just useful work. I'll come in and we'll talk about it
+[00755.70 - 00759.58] All right, let's get back to those big uh big big power but power power power people
+[00760.30 - 00762.64] All right. Here's the phrase worth knowing
+[00763.22 - 00767.82] Stranded asset remember that it sounds like something your uncle says about a fishing boat
+[00768.50 - 00775.80] It's infrastructure or in infrastructure. It means a costly asset. That's no longer earning the value it was built for okay
+[00776.34 - 00780.98] Maybe the demand didn't arrive. Maybe technology changed. Maybe the tenant left
+[00780.98 - 00784.96] Maybe financing just collapsed. Maybe a different location won the next phase
+[00785.58 - 00788.46] If a company builds its own private equipment and takes that hit
+[00789.06 - 00790.58] That's the business risk, right?
+[00790.96 - 00797.62] If a public body or regulated utility builds something based on the project and the project changes the risk can move outward
+[00797.62 - 00799.04] That's that's us
+[00799.04 - 00802.94] This is not a prediction that stargate or any other texas project will fail
+[00802.94 - 00805.56] It's a basic reason contracts exist
+[00806.02 - 00810.54] The more specific a project's public commitments are the easier it is to answer the important question
+[00810.98 - 00815.20] If the future turns out differently, what happens next exactly?
+[00816.72 - 00816.88] Okay
+[00817.60 - 00818.36] That's a lot of down
+[00818.90 - 00819.96] Here's the upside question
+[00820.78 - 00825.38] Let's go to the other side of it. Okay, if the project succeeds wildly
+[00825.38 - 00833.18] Well, then who benefits then the company gets revenue investors will get returns customers will get computing capacity construction firms get work
+[00833.18 - 00838.36] Some local businesses will probably grow workers can gain skills and better jobs
+[00838.36 - 00844.96] Governments can collect taxes even after incentives. That's uh, that's the upside case and I mean it's all real
+[00845.64 - 00849.26] But a good agreement makes sure the community is not only present for the downside
+[00849.92 - 00851.64] Does it have a stable tax base?
+[00851.92 - 00858.46] Does it have workforce pathways that actually last does it have infrastructure that serves other businesses, too?
+[00858.60 - 00863.04] Does it have enforceable commitments? Does it have enough transparency to know whether the deal worked?
+[00864.14 - 00869.94] The way to think about this is not public versus private. It's risk versus reward
+[00869.94 - 00876.02] That's usually how life goes if the upside is private, but the downside is socialized people eventually notice
+[00876.02 - 00880.60] They may not notice in the press release. They notice when the bill comes to it
+[00880.60 - 00884.36] My grandfather always said that people only notice when you reach into their wallet
+[00884.88 - 00888.22] A simple way to read the next announcement here
+[00888.22 - 00893.76] Okay, so when you get one of those next announcements the next time you see a headline about a data center battery factor
+[00894.38 - 00901.20] AI campus semiconductor plan or any other massive technology project use this four question card
+[00901.20 - 00909.38] Okay, very simple one who puts in cash not just who announces it who is legally responsible for financing which part
+[00909.94 - 00910.70] number two
+[00911.20 - 00916.60] Who guarantees domain? Is there a signed customer commitment? Is the project speculative?
+[00916.60 - 00918.88] What part is already operating?
+[00920.24 - 00921.02] number three
+[00921.46 - 00927.66] Who receives the upside so when the upside comes who gets it jobs taxes profits skills new infrastructure?
+[00928.54 - 00932.10] Name them specifically when asking this question and number four
+[00933.10 - 00935.02] Who remains responsible?
+[00935.70 - 00937.82] If the plan changes, okay
+[00938.44 - 00940.98] That's the one that people tend to skip
+[00940.98 - 00947.02] It's also the one that tells you whether a deal has been designed for a good headline or a long long future
+[00948.14 - 00952.02] So let's talk about cash demand upside and risk
+[00952.55 - 00956.28] Here is a part of the bigger point. Okay
+[00956.75 - 00961.18] The ai boom it's what's often presented as is like a race
+[00961.18 - 00965.08] Okay, america versus somebody else company versus company model versus model
+[00965.80 - 00968.00] Quinn versus kimmy whatever right
+[00968.52 - 00973.66] Some of that competition is very very real but communities do not experience it as a race
+[00973.66 - 00980.28] They experience it as a new building a new power line a new training program of housing crunch a job offer a tax agreement
+[00980.28 - 00982.00] Or just plain hire bill
+[00982.68 - 00986.80] That is why this conversation deserves to be better than cheerleading and better than doing
+[00987.32 - 00991.78] The most useful thing a reasonable person can do is insist on plain language
+[00991.78 - 00998.20] You know things like show us what was built show us who pays show us what's guaranteed show us what happens if
+[00998.20 - 01002.02] I don't know this giant plan that's going to change all of our lives changes
+[01002.58 - 01008.76] That's not anti-technology. That's how you make technology answer to the people living with it, right?
+[01009.60 - 01011.22] We gotta make them answer
+[01012.18 - 01018.16] So this is the end of the first season tech arc place power and money
+[01018.16 - 01019.72] We started with a town
+[01019.72 - 01023.32] We followed the electricity now. We have followed the deal
+[01024.04 - 01028.48] The next story is about what happens after the infrastructure is in place
+[01029.08 - 01034.74] How do these systems change work schools local businesses and the people expected to adapt to?
+[01035.04 - 01042.26] If you want to keep going, please subscribe like join the newsletter at that mic hamilton.com. No cost whatsoever
+[01042.26 - 01043.68] It's free five days a week
+[01043.68 - 01048.60] That's where the show keeps the receipts and where I will keep translating the big technology story
+[01048.60 - 01050.66] Back into normal human language
+[01051.42 - 01055.00] Thank you guys for being here and have a lovely day

@@ -1,0 +1,186 @@
+[0000.000 - 0017.000] Hey there I am Mike Hamilton that Mike Hamilton and today I wanted to talk to
+[0017.000 - 0023.260] you about some more Texas AI stories. There's a town in West Texas where not
+[0023.260 - 0028.220] very long ago the big conversation was the same one lots of towns have how do we
+[0028.220 - 0033.160] bring good jobs in without losing what makes this place livable. Now the
+[0033.160 - 0038.280] conversation there has changed outside of Abilene a giant AI computing campus is
+[0038.280 - 0043.020] already running. It's part of the Stargate build out tied to open AI oracle
+[0043.020 - 0046.800] Caruso and a whole lot of money with more commas than most of us see in a
+[0046.800 - 0051.300] lifetime. And I want to be careful here this is not a video about whether artificial
+[0051.300 - 0056.540] intelligence is good or bad. Now that is way too easy. It's also not a video where
+[0056.540 - 0060.420] I put a glowing robot on the screen and tell you the future has arrived and we've
+[0060.420 - 0064.680] all been through enough of those. This is about what happens when the thing we
+[0064.680 - 0068.900] keep calling AI stops being an app on your phone and becomes a construction
+[0068.900 - 0075.260] project in somebody's backyard. Because what a massive data center arrives it
+[0075.260 - 0080.080] doesn't arrive alone. It brings construction crews land deals power lines
+[0080.080 - 0086.280] tax agreements training programs traffic housing pressure and new set of
+[0086.280 - 0090.720] questions for the people who already lived there. And the important question is
+[0090.720 - 0095.700] not is this exciting? Of course, I mean it's exciting, right? The important question
+[0095.700 - 0106.760] is what exactly is the bargain here? So what do we mean when we say AI? Well when
+[0106.760 - 0111.860] most of us say AI we mean chat GPT or clawed or the image tool that made your
+[0111.860 - 0116.600] cousin look like he's in an 84 action movie, right? But those tools sit on top of
+[0116.600 - 0120.580] something much more physical buildings full of computers connected by networking
+[0120.580 - 0126.360] equipment, cooled, powered, guarded, maintained, and fed a truly absurd amount
+[0126.360 - 0131.880] of electricity. Lots and lots of electricity. Think of it this way. The chat
+[0131.880 - 0137.540] bot is the front counter. Okay, the data center was the factory behind it. And
+[0137.540 - 0142.000] the factory is where the real decisions become visible. So open AI announced
+[0142.000 - 0148.000] Stargate in January 2025 is a large US AI infrastructure effort. The company
+[0148.000 - 0152.820] said it intended to pursue up to 10 gigawatts of capacity and as much as 500
+[0152.820 - 0157.880] billion in investment over several years. Those are company plans not a guarantee
+[0157.880 - 0161.720] that every promised dollar gets spent exactly as announced. But the first
+[0161.720 - 0165.880] Texas side is not a PowerPoint slide. The initial Abilene campus has been
+[0165.880 - 0171.040] built, energized and put into service and phases. That distinction definitely
+[0171.040 - 0176.140] matters. We shouldn't treat every press release as a finished building, but we
+[0176.140 - 0180.460] should not pretend this is vaporware either, because it's not. So let's start
+[0180.460 - 0187.740] with the plainest possible question. Why Abilene? Why a place like Abilene? Well,
+[0188.040 - 0192.260] the short answer is that big computing facilities chase a few things at once.
+[0192.980 - 0196.760] They've got land, power, fiber, construction capacity, local cooperation,
+[0196.760 - 0202.400] and a timetable that doesn't take like 15 years, right? That is not unique to
+[0202.400 - 0208.120] Abilene. It is the new industrial site checklist for a community. This can look
+[0208.120 - 0213.100] like a winning lottery ticket. There are construction jobs immediately. Hotels
+[0213.100 - 0217.160] fill up restaurants, seeming customers, local contractors have an opening. Training
+[0217.160 - 0221.000] programs can become more relevant. A city can collect revenue. It would not have
+[0221.000 - 0225.120] collected otherwise. And none of that is fake. Just because there are trade
+[0225.120 - 0228.280] jobs, too many conversations about development, the trapped in a cartoon
+[0228.280 - 0233.700] version of the story. Either the project is salvation, or it's a giant evil
+[0233.700 - 0238.900] rectangle that appeared overnight to ruin the county fair. Real life is
+[0238.900 - 0243.460] usually messier than that. A town can genuinely benefit and still need a much
+[0243.460 - 0246.520] better deal. I mean, most of us are purple, right? We're not red, we're not
+[0246.520 - 0250.560] blue. The first thing to understand is that there are several different kinds of
+[0250.560 - 0255.440] jobs hiding inside one headline. There are construction jobs, electricians,
+[0255.600 - 0260.020] equipment operators, concrete crews, security logistics, HVAC specialists,
+[0260.600 - 0264.500] network installers, and people keeping a giant job site moving. Those can be
+[0264.500 - 0269.580] numerous, intense, and very, very real. Then there are the permanent openings,
+[0270.220 - 0274.520] like technicians, engineers, facilities teams, security management vendors,
+[0274.860 - 0279.120] and probably support. Those can be good jobs, but a data center is not a
+[0279.120 - 0282.380] traditional factory. It doesn't necessarily employ thousands of people
+[0282.380 - 0286.820] forever, just because it costs billions to build. Now, that doesn't make the
+[0286.820 - 0290.880] facility bad. It means a community should never hear billions invested and
+[0290.880 - 0295.200] mentally translated into thousands of long term local careers without asking
+[0295.200 - 0302.460] for the actual number, the actual pay, and the actual hiring commitment. Now,
+[0303.140 - 0309.100] construction jobs versus permanent jobs. They're not able. This is one of those
+[0309.100 - 0312.480] things that you feel like you're, you're raining on a parade, and you're not,
+[0312.820 - 0317.820] you're reading the whole flyer before you buy the time share. The announcement is
+[0317.820 - 0323.700] not the agreement, okay? Here's the part I wish more communities did before the
+[0323.700 - 0328.220] ribbon cutting, separate the announcement from the obligations. An
+[0328.220 - 0332.180] announcement, I mean, that tells you what somebody hopes will happen. An
+[0332.180 - 0338.280] agreement tells you what they have to do. The announcement says this project will
+[0338.280 - 0343.240] bring big, big opportunity. The agreement should answer how many permanent
+[0343.240 - 0348.940] jobs and by when and how much are you going to pay them? What's the wages? What
+[0348.940 - 0352.740] infrastructure will be needed? What, who's going to pay for it up front? What
+[0352.740 - 0356.640] happens if the project changes hands, slows down or never reaches the size that
+[0356.640 - 0361.140] it was promised? Well, that's not anti business. That's how you treat a major
+[0361.140 - 0365.840] major business deal like a major business deal. Boy, business is tough. If a
+[0365.840 - 0369.620] company wants access to a community's land, roads, water systems, workforce,
+[0370.680 - 0375.440] tax base, electric grid, and public deserves more than a glossy rendering and
+[0375.440 - 0380.340] a sentence about innovation. Texas already has state level tax rules for
+[0380.340 - 0383.740] qualifying data centers. The Texas Comptroller explains that eligible
+[0383.740 - 0388.920] facilities can receive a temporary exemption from the 6.25% state sales and
+[0388.920 - 0394.360] use tax on certain equipment, essential operations. In some large case projects,
+[0394.960 - 0400.020] the rules can also affect local sales tax. That is public policy, not a secret
+[0400.020 - 0404.480] handout, but it's still a public choice with a cost. The useful question is not
+[0404.480 - 0408.620] did the company get an incentive? Almost every large project gets some kind of
+[0408.620 - 0412.560] incentive conversation. The useful question is, what did the community
+[0412.560 - 0418.700] receive in return? And is that promise written down? Paper is still important.
+[0419.460 - 0424.660] The human scale version of the story here. So let's make this less abstract.
+[0425.660 - 0429.880] Imagine you own a small business in Abilene, right? Little old Abilene. The
+[0429.880 - 0433.220] construction boom means more people passing through town. That can really help.
+[0433.940 - 0437.100] But it can also mean a tighter housing market, more competition for workers,
+[0437.440 - 0441.540] more strain on the roads and prices moving in ways that are great, only if you own
+[0441.540 - 0444.580] property and you're considerably less charming if you're trying to rent an
+[0444.580 - 0448.500] apartment for your kid. Imagine you're a student or a parent of one.
+[0449.740 - 0454.380] A big technical employer can create a reason for schools and colleges to add useful training.
+[0454.980 - 0458.500] That can be a real opportunity, but the training should lead to jobs that exist,
+[0458.800 - 0463.320] not just to a nice photograph of a signing ceremony. I used to work for a couple of those
+[0463.320 - 0469.340] places. Imagine you're on the city council. You're trying to weigh a project that could
+[0469.340 - 0473.940] change the tax base against commitments that may last for years and years. You need to know
+[0473.940 - 0478.260] what is a private risk, what's a public risk, and what happens if the market cools off,
+[0478.520 - 0484.940] which I think we're starting to see. Now imagine you're an electric customer anywhere in Texas.
+[0485.340 - 0489.740] You may not live near Abilene. You may still be connected to a bigger planning problem than
+[0489.740 - 0496.400] this project represents. That last part is the key. The campus is local, the system supporting it.
+[0496.400 - 0504.040] Well, that's not. That's not what. The thing a rendering can't show you, every big project starts
+[0504.040 - 0509.120] with a rendering. Clean buildings, blue sky, a few carefully selected trees that would never
+[0509.120 - 0516.060] survive a Texas August without a support group. I think it's 108. A rendering is very useful. It
+[0516.060 - 0519.960] helps people pick your scale, but it leaves out the part that determines whether the project
+[0519.960 - 0525.800] is a good neighbor. So it doesn't show the route construction traffic takes. It doesn't show
+[0525.800 - 0531.320] whether local contractors can realistically compete for the work. That's a big thing. It does
+[0531.320 - 0536.700] not show the temporary housing demand. It doesn't show where crews eat, sleep, shop, and send their
+[0536.700 - 0542.420] kids to school if they stay. It doesn't show how often the city has to widen a road or repair one,
+[0542.980 - 0548.640] and usually it doesn't show the contract. That's why local stories should never begin
+[0548.640 - 0553.920] and end with whether the facility is visually impressive. A data center is supposed to be
+[0553.920 - 0559.280] visually boring. That's almost part of its job. The interesting part is the relationship between
+[0559.280 - 0565.620] the campus and the place around it. There's also a timing issue people miss. Construction arrives
+[0565.620 - 0570.840] first. That's when economic activity is loudest. New people come through town. Money moves. Local
+[0570.840 - 0576.880] leaders can point to cranes and hiring signs and go look what I did. The permanent phase is
+[0576.880 - 0581.880] quieter than that. This is where the community learns what the long-term operating footprint
+[0581.880 - 0586.740] really, really looks like. Which jobs stayed local? Which vendors are local? What tax
+[0586.740 - 0591.580] commitments began or ended? What parts of the project kept expanding and what parts did not?
+[0592.600 - 0598.980] This is why a community needs two scorecards. One for construction and one for operations. Mixing
+[0598.980 - 0604.460] them together makes every deal look better or worse than it really is. Here's a practical example.
+[0604.900 - 0610.220] If a project creates a thousand construction jobs over several years and 200 permanent jobs
+[0610.220 - 0615.980] afterwards, both numbers can matter. But they answer completely different questions. The
+[0615.980 - 0621.100] construction number tells you about a period of activity. The permanent number tells you about
+[0621.100 - 0627.280] the ongoing economic relationship. Let's put this another way. A town should enjoy the boom without
+[0627.280 - 0638.360] accidentally budgeting as if the boom is forever. Now, local, local, it has to mean something. Companies
+[0638.360 - 0644.900] like to say they'll hire local. But cities like to say they're pursuing local benefits. Great.
+[0645.700 - 0649.980] How about somebody to find it, right? Does local mean people who already live in the county?
+[0650.400 - 0653.960] Does it include a wider region? Does it mean the contractor's headquarters is local? Are the
+[0653.960 - 0657.540] people receiving paychecks are local? Does it include a print of ships? Does it include a pathway
+[0657.540 - 0661.300] for somebody who's not already a data center technician with three years of data center experience?
+[0662.180 - 0666.460] Which is a little like requiring somebody to have been a unicorn before applying for the unicorn job.
+[0667.060 - 0672.000] The best workforce promise is not simply a number. It's a pathway, right? High school programs,
+[0672.220 - 0677.440] community colleges, trade programs, internships, paid training, clear description of the job that
+[0677.440 - 0697.890] actually exists. That'd be nice. Those are few and far between a lot of the time. That matters
+[0697.890 - 0702.110] especially in a place like West Texas. The story should not be the local people have to leave home
+[0702.110 - 0706.090] to get the skills then come back later hoping there's a role. The stronger story is that new
+[0706.090 - 0713.090] industry creates a real on-ramp where people already live. If that on-ramp, it's not in the
+[0713.090 - 0722.710] agreement, then it can disappear the moment the publicity photos are over. Let's take a small break
+[0722.710 - 0728.670] from that. Before we get to the part where the power grid enters the chat, because it absolutely
+[0728.670 - 0735.710] does here, this is what I am building at thatmycamelton.com. The newsletter is for people who want the
+[0735.710 - 0740.910] useful version of these stories. What changed? What's real? What's hype? And the one question
+[0740.910 - 0746.150] worth carrying into the next meeting, city council agenda staff conversation or family dinner. No 10
+[0746.150 - 0751.850] AI hacks before breakfast. No pretending you need a new acronym to remain employable. No,
+[0752.270 - 0758.170] I make $22,000 a month from just this one trick. Just a practical note for people who still have
+[0758.170 - 0763.730] to make decisions in the real world. Now you can sign up for that at thatmycamelton.com. It's free.
+[0763.730 - 0767.910] It helps the show become a real business without turning every episode into a late night mattress
+[0767.910 - 0774.170] commercial. And I'd just really love to send you this information. All right, so let's get back to
+[0774.170 - 0780.710] the giant building full of computers. Now what a community should ask before saying yes.
+[0781.290 - 0787.070] Here are five questions I would want on the table anytime a project like this is announced.
+[0788.000 - 0795.710] First, what is actually being built and in what phases? Okay, the phases can bite you. Do not
+[0795.710 - 0800.690] accept one giant number if the project will arrive in stages. Ask what's approved now,
+[0801.050 - 0806.170] what's under construction, what's merely proposed, a planned campus and an operating campus are
+[0806.170 - 0812.670] two different things. Second, how many permanent jobs are guaranteed and not just like an estimate?
+[0813.410 - 0818.550] Ask for job categories, wage levels, local hiring goals, and the date those jobs are
+[0818.550 - 0825.050] expected to exist. A giant capital figure does not answer any of those questions. And in third,
+[0825.790 - 0831.470] what does the community provide? Is it land, tax treatment, road improvements, water, workforce
+[0831.470 - 0837.190] assistance, you can see these piling up, public financing, faster permits, every community has
+[0837.190 - 0844.750] its own mix. Put the list in the daylight. Let us see it. Number four, what happens if the project
+[0845.310 - 0850.350] underperforms, right? Everybody's about big. This is the question people hate because it sounds
+[0850.350 - 0855.450] negative, but it's the most adult question in the room. If promised jobs don't appear,
+[0856.050 - 0861.130] if a tenant leaves, the construction stops or demand changes, who carries the remaining obligation?
+[0861.770 - 0868.010] That's important. And number five, what does the power plan actually say? Not they'll use a lot of
+[0868.010 - 0873.310] power. We know that, right? You want to ask where will it come from and will the infrastructure be
+[0873.310 - 0879.550] ready and who pays to build it? The fifth question is where the story gets bigger than this one town
+[0879.550 - 0887.170] of Abilene. Now, here's what we know and what we don't know. The honest scorecard, okay? We know
+[0887.170 - 0893.230] the Abilene area is a real operating center of the Stargate building. We know the project has brought
+[0893.230 - 0898.910] construction activity and significant attention to the region. We know open AI, Oracle, Perso,
+[0899.670 - 0904.510] local development organizations, and the state all see large AI facilities as part of Texas
+[0904.510 - 0909.770] economic future. But we also know that the biggest claims around AI infrastructure often blend
+[0909.770 - 0914.730] different things together. So plan capacity, announced investment, construction employment,
+[0914.730 - 0919.770] permanent employment, direct revenue, indirect revenue, and national forecast. Well, I love those
+[0919.770 - 0925.450] lists. Those are not interchangeable. They should not be treated as interchangeable because the font
+[0925.450 - 0932.070] was large. Just remember, they do vent to you. What remains uncertain is the pace of every future
+[0932.070 - 0936.970] expansion, the exact long-term employment mix, the final cost of public cost picture,
+[0937.290 - 0942.530] and how much of the industry's enormous demand forecast becomes a real, real load on your grid.
+[0943.330 - 0948.110] That uncertainty is not a reason to shrug and stop asking. It's the reason to ask better
+[0948.110 - 0954.750] questions earlier. So here's the next move. If a big technology project is coming to your area,
+[0955.050 - 0962.570] or if one is being discussed, I want you to remember this sentence, okay? Show me the permanent jobs,
+[0963.030 - 0968.770] the public commitments, the resource plan, and the enforceable terms. Now, that's not because growth
+[0968.770 - 0973.330] is bad, not because every data center is a scam. It's because communities should get to
+[0973.330 - 0978.830] understand the bargain before they spend 20 years living with it. And the next question is even bigger.
+[0979.530 - 0985.770] Where does the electricity come from for a boom like this? That is the next episode. We're going to
+[0985.770 - 0990.150] follow the power from the server rack to the substation through the planning process and into
+[0990.150 - 0995.010] the part of your electric build nobody puts on the billboard, okay? If you want to keep following
+[0995.010 - 1000.770] this series, please subscribe here, join the newsletter at that Mike Hamilton dot com. It's got
+[1000.770 - 1005.050] some great information. I'd love to send that to you. It's completely free. The next one is called
+[1005.050 - 1013.430] AI has an electricity problem. And I think probably what's going to happen is I'm going to see you in
+[1013.430 - 1013.610] a minute.
