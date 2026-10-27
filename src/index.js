@@ -28,6 +28,15 @@ export default {
       headers.set("x-tmh-fallback", fallbackPath);
       return new Response(fallback.body, { status: fallback.status, headers });
     }
+    if (request.method === "GET" && response.status === 200 && (response.headers.get("content-type") || "").toLowerCase().includes("text/html")) {
+      let hasVerification = false;
+      return new HTMLRewriter()
+        .on('head meta[name="impact-site-verification"]', { element() { hasVerification = true; } })
+        .on("head", { element(head) { head.onEndTag((end) => {
+          if (!hasVerification) end.before("<meta name='impact-site-verification' value='eb99f47d-4c52-43ec-b252-67e051aee719'>", { html: true });
+        }); } })
+        .transform(response);
+    }
     return response;
   },
 
