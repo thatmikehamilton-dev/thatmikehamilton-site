@@ -33,7 +33,7 @@ export default {
       return new HTMLRewriter()
         .on('head meta[name="impact-site-verification"]', { element() { hasVerification = true; } })
         .on("head", { element(head) { head.onEndTag((end) => {
-          if (!hasVerification) end.before("<meta name='impact-site-verification' value='0c1ee81f-8c19-4fc6-a24d-ff243afbfd42'>", { html: true });
+          if (!hasVerification) end.before("<meta name='impact-site-verification' value='eb99f47d-4c52-43ec-b252-67e051aee719'>", { html: true });
         }); } })
         .transform(response);
     }
