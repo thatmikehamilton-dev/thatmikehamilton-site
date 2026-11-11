@@ -5,18 +5,30 @@ const HEALTH_PATH = "/__site-health";
 const IMAGE_ASSET = /\.(?:avif|gif|jpe?g|png|svg|webp)$/i;
 const WORKBOOK_DOWNLOAD_PATH = "/download/make-the-show-workbook";
 const WORKBOOK_OBJECT_KEY = "make-the-show-workbook.pdf";
+const SECURITY_HEADERS = {
+  "content-security-policy": "default-src 'self' https: data: blob:; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' https: data: blob:; font-src 'self' https: data:; media-src 'self' https: blob:; frame-src https:; connect-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self' https://seasoned-tech-newsletter.mike-663.workers.dev; frame-ancestors 'none'; upgrade-insecure-requests",
+  "strict-transport-security": "max-age=31536000; includeSubDomains",
+  "x-content-type-options": "nosniff",
+  "referrer-policy": "strict-origin-when-cross-origin",
+  "permissions-policy": "camera=(), geolocation=(), microphone=(), payment=(), usb=()",
+  "x-frame-options": "DENY",
+};
 
 export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
+    if (url.protocol === "http:" && url.hostname !== "127.0.0.1" && url.hostname !== "localhost") {
+      url.protocol = "https:";
+      return withSecurityHeaders(Response.redirect(url.toString(), 301));
+    }
     if (url.pathname === HEALTH_PATH) {
-      return healthResponse(env);
+      return withSecurityHeaders(await healthResponse(env));
     }
     if (url.pathname === "/newsletter" || url.pathname === "/newsletter/") {
-      return Response.redirect(new URL("/#newsletter", url).toString(), 301);
+      return withSecurityHeaders(Response.redirect(new URL("/#newsletter", url).toString(), 301));
     }
     if (url.pathname === WORKBOOK_DOWNLOAD_PATH) {
-      return workbookDownload(request, env);
+      return withSecurityHeaders(await workbookDownload(request, env));
     }
 
     const response = await env.ASSETS.fetch(request);
@@ -26,15 +38,23 @@ export default {
       const fallback = await env.ASSETS.fetch(new Request(new URL(fallbackPath, url), request));
       const headers = new Headers(fallback.headers);
       headers.set("x-tmh-fallback", fallbackPath);
-      return new Response(fallback.body, { status: fallback.status, headers });
+      return withSecurityHeaders(new Response(fallback.body, { status: fallback.status, headers }));
     }
-    return response;
+    return withSecurityHeaders(response);
   },
 
   async scheduled(_event, env, ctx) {
     ctx.waitUntil(runHealthCheck(env));
   },
 };
+
+function withSecurityHeaders(response) {
+  const secured = new Response(response.body, response);
+  for (const [name, value] of Object.entries(SECURITY_HEADERS)) {
+    secured.headers.set(name, value);
+  }
+  return secured;
+}
 
 async function healthResponse(env) {
   const report = await runHealthCheck(env);

@@ -33,6 +33,7 @@ body{
   text-rendering:optimizeLegibility;
 }
 img{max-width:100%;height:auto;display:block}
+iframe{max-width:100%}
 
 h1,h2,h3{
   font-family:"Anton","Arial Narrow",Impact,sans-serif;
@@ -150,7 +151,7 @@ a.card:hover{text-decoration:none;transform:translateY(-2px);transition:.15s}
 @media(max-width:620px){.book-grid{grid-template-columns:1fr}.book-card{grid-template-columns:76px minmax(0,1fr);gap:14px}.book-cover{width:76px}}
 
 /* ---- Prose (About / Privacy / Terms) ---- */
-.prose{max-width:74ch}
+.prose{max-width:74ch;overflow-wrap:anywhere}
 .prose h2{margin-top:1.4em}
 .prose h3{margin-top:1.3em;color:var(--ink)}
 .prose ul{padding-left:1.2em}
